@@ -21,7 +21,6 @@ Les éléments graphiques des packs Kenney:
 Pixel Platformer Kit/New Platformer Kit: pour les plateformes, le sol, personnages et spikes.
 
 Le personnage est un sprite simple à deux ou trois frames d’animation pour les mouvements.
-Les visuels choisis sont colorés, modulables et cohérents dans un style pixel art.
 
 # Bruitages Sonors:
 - Saut → effet sonore léger, inspiré de Mario.
