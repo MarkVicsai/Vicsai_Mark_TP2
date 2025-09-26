@@ -29,3 +29,9 @@ Le personnage est un sprite simple à deux ou trois frames d’animation pour le
 # Musique de fond :
 Une boucle musicale légère, joyeuse, rythmée mais non stressante, pour maintenir l’attention et le plaisir.
 
+# Menu
+Ecrire le titre du jeux
+Ajouter un bouton pour commencer le jeux
+Dans le background, c'est un niveau de test qui n'as pas de mouvement de camera
+
+- Lors de la mort d'un joueur, un menu de mort s'affiche sur l'ecran avec un bouton "Recommencer".
