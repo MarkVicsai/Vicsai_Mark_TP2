@@ -15,9 +15,6 @@ Flèche droite  → Déplacement du personnage
 
 Flèche haut    → barre espace → Sauter
 
-Flèche bas     → Acroupir
-
-
 # Choix des médias visuels
 Les éléments graphiques des packs Kenney:
 
