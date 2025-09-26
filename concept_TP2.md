@@ -15,7 +15,7 @@ Flèche droite  → Déplacement du personnage
 
 Flèche haut    → barre espace → Sauter
 
-(raffiner les annimations et mouvements)
+(Raffiner les annimations et mouvements)
 
 # Choix des médias visuels
 Les éléments graphiques des packs Kenney:
@@ -30,7 +30,8 @@ Le personnage est un sprite simple à deux ou trois frames d’animation pour le
 
 - Une boucle musicale légère, joyeuse, rythmée mais non stressante de style 8-bit, pour maintenir l’attention et le plaisir.
 
-(ameliorer la quilites des sons, metter en boucle la musique de fond et s'assurer que chaque interaction est suivi d'un bruitage sonore)
+(Ameliorer la quilites des sons, metter en boucle la musique de fond et s'assurer que chaque interaction est suivi d'un bruitage sonore)
+
 # Menu
 Ecrire le titre du jeux
 Ajouter un bouton pour commencer le jeux
