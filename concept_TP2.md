@@ -18,11 +18,10 @@ Flèche haut    → barre espace → Sauter
 # Choix des médias visuels
 Les éléments graphiques des packs Kenney:
 
-Pixel Platformer Kit/New Platformer Kit, Brick Pack: pour les plateformes, le sol, les objets collectables, personnages et ennemis.
-Background Element Redux: Pour les images de fond.
+Pixel Platformer Kit/New Platformer Kit: pour les plateformes, le sol, personnages et spikes.
 
 Le personnage est un sprite simple à deux ou trois frames d’animation pour les mouvements.
-Les visuels choisis sont colorés, modulables et cohérents dans un style pixel art. Cela permet une lecture claire de la scène.
+Les visuels choisis sont colorés, modulables et cohérents dans un style pixel art.
 
 # Bruitages Sonors:
 - Saut → effet sonore léger, inspiré de Mario.
